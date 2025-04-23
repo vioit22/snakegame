@@ -1,22 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Protest+Riot&display=swap');
+
+
+
 #gameContainer{
+
     text-align: center;
+
 }
+
+
+
 #gameBoard{
-    border: 3px solid rgb(255, 0, 0);
+
+
+
+    border: 3px solid crimson;
+
+    background:url("https://png.pngtree.com/thumb_back/fh260/background/20230617/pngtree-halloween-ghost-and-pumpkin-cartoon-desktop-wallpaper-image_2947814.jpg");
+
 }
+
+
+
 #scoreText{
-    font-family: "Permanent Marker", cursive;
+
+
+
+    font-family: "Protest Revolution", sans-serif;
+
+
+
     font-size: 100px;
-    color: Navy;
+
+
+
+    color: rgb(255, 153, 0);
+
+
+
 }
+
+
+
 #resetBtn{
-    font-family: "Permanent Marker", cursive;
-    font-size: 22px;
+
+
+
+    font-family: "Protest Revolution", sans-serif;
+
+
+
+    font-size: 25px;
+
+
+
     width: 100px;
+
+
+
     height: 50px;
-    border: 2px solid red;
-    border-radius: 15px;
+
+
+
+    border: 1px solid orange;
+
+
+
+    border-radius: 20px;
+
+
+
     cursor: pointer;
-    color: red;
+
+
+
+    color: orange;
+
+
+
     border-radius: 50%;
+
+
+
+    background-color: transparent;
+
+
+
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Protest+Riot&display=swap');
+
+
+
+#gameContainer{
+
+
+
+    text-align: center;
+
+
+
+
+
+}
+
+
+
+#gameBoard{
+
+
+
+    border: 3px solid crimson;
+
+    background:url("https://png.pngtree.com/thumb_back/fh260/background/20230617/pngtree-halloween-ghost-and-pumpkin-cartoon-desktop-wallpaper-image_2947814.jpg");
+
+}
+
+
+
+#scoreText{
+
+
+
+    font-family: "Protest Revolution", sans-serif;
+
+
+
+    font-size: 100px;
+
+
+
+    color: rgb(255, 153, 0);
+
+
+
+}
+
+
+
+#resetBtn{
+
+
+
+    font-family: "Protest Revolution", sans-serif;
+
+
+
+    font-size: 25px;
+
+
+
+    width: 100px;
+
+
+
+    height: 50px;
+
+
+
+    border: 1px solid orange;
+
+
+
+    border-radius: 20px;
+
+
+
+    cursor: pointer;
+
+
+
+    color: orange;
+
+
+
+    border-radius: 50%;
+
+
+
+    background-color: transparent;
+
+
+
+}
+
